@@ -52,5 +52,5 @@ http://localhost:1337/admin
 
 ## Loom Video
 
-[Link to Loom video]- 
+[Link to Loom video]- https://www.loom.com/share/b9e5982dc42b4448b68c223387c9a6b5
 
