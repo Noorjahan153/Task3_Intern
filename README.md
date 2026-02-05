@@ -1,5 +1,5 @@
-Task 3: Strapi Setup on AWS EC2 Using Terraform
-Overview
+**Task 3: Strapi Setup on AWS EC2 Using Terraform**  
+**Overview**
 
 This project demonstrates deploying Strapi (Headless CMS) on AWS EC2 using Terraform. Access to the EC2 instance is secured using a .pem key, and the project includes steps to install Node.js, clone the Strapi repo, build the admin panel, and run Strapi on port 1337.
 
