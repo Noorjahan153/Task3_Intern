@@ -1,0 +1,32 @@
+nohup: ignoring input
+
+> my-project@0.1.0 start
+> strapi start
+
+[2026-02-05 07:46:38.413] [33mwarn[39m: admin.auth.options.expiresIn is deprecated and will be removed in Strapi 6. Please configure admin.auth.sessions.maxRefreshTokenLifespan and admin.auth.sessions.maxSessionLifespan.
+
+ Project information
+
+[90m┌────────────────────[39m[90m┬──────────────────────────────────────────────────┐[39m
+[90m│[39m Time               [90m│[39m Thu Feb 05 2026 07:46:38 GMT+0000 (Coordinated … [90m│[39m
+[90m│[39m Launched in        [90m│[39m 1587 ms                                          [90m│[39m
+[90m│[39m Environment        [90m│[39m development                                      [90m│[39m
+[90m│[39m Process PID        [90m│[39m 5048                                             [90m│[39m
+[90m│[39m Version            [90m│[39m 5.34.0 (node v18.20.8)                           [90m│[39m
+[90m│[39m Edition            [90m│[39m Community                                        [90m│[39m
+[90m│[39m Database           [90m│[39m sqlite                                           [90m│[39m
+[90m│[39m Database name      [90m│[39m .tmp/data.db                                     [90m│[39m
+[90m└────────────────────[39m[90m┴──────────────────────────────────────────────────┘[39m
+
+ Actions available
+
+One more thing...
+Create your first administrator 💻 by going to the administration panel at:
+
+[90m┌─────────────────────────────┐[39m
+[90m│[39m http://localhost:1337/admin [90m│[39m
+[90m└─────────────────────────────┘[39m
+
+[2026-02-05 07:46:38.624] [32minfo[39m: Strapi started successfully
+[2026-02-05 07:48:18.991] [32minfo[39m: Shutting down Strapi
+[2026-02-05 07:48:18.995] [32minfo[39m: Strapi has been shut down
