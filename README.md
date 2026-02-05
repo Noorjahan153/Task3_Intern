@@ -5,15 +5,7 @@ This project demonstrates deploying Strapi (Headless CMS) on AWS EC2 using Terra
 
 1️⃣ Prerequisites
 
-AWS account with IAM user credentials
-
-Terraform installed locally
-
-.pem key for SSH access
-
-Node.js (v18+) and npm installed on the EC2 instance
-
-Git installed on the EC2 instance
+AWS account with IAM user credentials,Terraform installed locally,.pem key for SSH access,Node.js (v18+) and npm installed on the EC2 instance,Git installed on the EC2 instance
 
 2️⃣ Terraform Configuration
 Create a main.tf file for EC2 instance, security group, and key pair:
